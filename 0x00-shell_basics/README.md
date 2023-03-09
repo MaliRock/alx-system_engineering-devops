@@ -1,1 +1,1 @@
-hidden files (starting with .). Use the long format
+long format, user and group IDs, hidden files
