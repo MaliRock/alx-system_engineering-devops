@@ -1,2 +1,1 @@
-changes the working directory to the previous one
-lists all files in long format
+list all files in current and parent directory, inlong format
