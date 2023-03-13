@@ -1,1 +1,1 @@
-confused smiley
+current state of directory
