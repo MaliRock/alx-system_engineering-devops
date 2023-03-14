@@ -1,1 +1,1 @@
-duplicates the last line
+creates a file named exactly
