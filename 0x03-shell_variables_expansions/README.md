@@ -1,1 +1,1 @@
-a new local variable
+new local variable
